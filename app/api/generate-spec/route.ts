@@ -6,7 +6,7 @@ export async function POST(req: Request) {
     const { description } = await req.json();
     const client = new OpenAI({
       baseURL: 'https://openrouter.ai/api/v1',
-      apiKey: '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', // Se mantiene intacto como lo tenías
+      apiKey: process.env.ANTHROPIC_API_KEY || '', // Se mantiene intacto como lo tenías
     });
 
     // Añadimos el corazón del control estructural de tus 6 secciones
