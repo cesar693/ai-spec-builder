@@ -1,7 +1,7 @@
 guarda este contenido como project-spec.md en la raiz del proyecto Plantilla Spec-First para Claude
 SECCIÓN 1 — Visión del producto
 Tu visión:
-AI Spec Builder es una herramienta web que transforma la descripción de cualquier idea de producto en una especificación técnica lista para compartir con desarrolladores, eliminando la barrera entre la visión del emprendedor y la ejecución técnica.
+AI Spec Builder es una herramienta web que transforma la descripción de cualquier idea de producto en una ebasandospecificación técnica lista para compartir con desarrolladores, eliminando la barrera entre la visión del emprendedor y la ejecución técnica.
 SECCIÓN 2 — Usuarios y casos de uso
 Tus usuarios y casos de uso:
 Aquí los casos de uso principales para ese perfil:
